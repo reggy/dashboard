@@ -5,11 +5,11 @@ Dashboard with angular js
 Requirement And installing
 
 ## Node JS
-installing node js on [Here](https://github.com/nodejs/node-v0.x-archive/wiki/Installing-Node.js-via-package-manager?utm_source=%5Bdeliciuos%5D&utm_medium=twitter)
+Installing node js on [Here](https://github.com/nodejs/node-v0.x-archive/wiki/Installing-Node.js-via-package-manager?utm_source=%5Bdeliciuos%5D&utm_medium=twitter)
 
 ## NPM (Node Package Manager)
 
-Activating node package manager
+Module installing using `npm` 
 -Installing Module NodeJS for dashboard
   - Installing Daemon for nodejs pm2 [Unitech PM2](https://github.com/Unitech/pm2) 
 	`npm install -g pm2`
@@ -19,6 +19,10 @@ Activating node package manager
 	`npm install body-parser --save-dev`
   - Installing Session for login to local directory
 	`npm install client-sessions --save-dev`
+  - Installing Cookie parser for parsing cookie browser
+  	`npm install cookie-parser --save-dev`
+  - Installing ejs for templating 
+  	`npm install ejs --save-dev`
 
 
 ## Grunt JS 
