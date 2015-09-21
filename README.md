@@ -11,13 +11,13 @@ installing node js on [Here](https://github.com/nodejs/node-v0.x-archive/wiki/In
 
 Activating node package manager
 1. Installing Module NodeJS for dashboard
-..* Installing Daemon for nodejs pm2 [Unitech PM2](https://github.com/Unitech/pm2) 
+--* Installing Daemon for nodejs pm2 [Unitech PM2](https://github.com/Unitech/pm2) 
 	`npm install -g pm2`
-..* Installing express framework to local directory
+--* Installing express framework to local directory
  	`npm install express --save-dev`
-..* Installing body-parser for parsing parameter OR parsing json format to local directory
+--* Installing body-parser for parsing parameter OR parsing json format to local directory
 	`npm install body-parser --save-dev`
-..* Installing Session for login to local directory
+--* Installing Session for login to local directory
 	`npm install client-sessions --save-dev`
 
 
