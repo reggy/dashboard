@@ -51,7 +51,8 @@ cd /path/to/dir/public
 
 bower install angularjs
 ```
-Then add a <script> to your index.html:
+Then add a `<script>` to your `index.html`:
+
 ```html
 <script src="/bower_components/angular/angular.js"></script>
 ```
